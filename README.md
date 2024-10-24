@@ -17,6 +17,15 @@
 - 💾 Learning SQL and MySQL to enhance my database management skills.
 - 📚 Working on a team project to build a library book loan system using C++.
 
+### Lenguajes y herramientas que uso:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 ### Fun Facts:
 - 🚀 Always open to new projects and challenges in full-stack development.
 
@@ -25,4 +34,3 @@
 - aguirre.20kayla@gmail.com
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=dracula)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&theme=dracula)
