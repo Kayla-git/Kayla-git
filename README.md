@@ -1,4 +1,9 @@
 <div align="center">
+  ![Aguirre Kayla](https://github.com/user-attachments/assets/de6e4fce-a0d0-43a2-a905-8b5e43d5f51c)
+</div>
+
+
+<div align="center">
 
 # Hi! Soy Kayla Aguirre   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
