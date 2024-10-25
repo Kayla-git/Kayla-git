@@ -1,5 +1,5 @@
 <div align="center">
-  ![Aguirre Kayla](https://github.com/user-attachments/assets/de6e4fce-a0d0-43a2-a905-8b5e43d5f51c)
+  <img src=https://github.com/user-attachments/assets/e1f79171-4d9e-44b7-a9da-e79fa910cc59 alt="Banner de Kayla Aguirre">
 </div>
 
 
