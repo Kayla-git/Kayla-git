@@ -39,3 +39,5 @@
 - aguirre.20kayla@gmail.com
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&theme=tokyonight)
+
