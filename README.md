@@ -1,5 +1,8 @@
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/e1f79171-4d9e-44b7-a9da-e79fa910cc59 alt="Banner de Kayla Aguirre">
+  
+  ![White Minimalist Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/79b99b28-3f02-4c50-a134-07db289fcba8)
+
+  
 </div>
 
 
