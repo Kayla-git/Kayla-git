@@ -8,23 +8,27 @@
 
 <div align="center">
 
-# Hi! I'm Kayla Aguirre   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hola! Soy Kayla Aguirre   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 ## ABOUT ME
 
 <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" alt="Kirby Baila" width="50" height="50"/>
- An Information Engineering student from Argentina 🇦🇷, passionate about web development 💻, with a growing focus on front-end and back-end technologies. I enjoy learning about new tools 🛠️ and constantly improving my skills. My goal is to become a highly skilled programmer or digital marketing director, with a strong focus on innovation and problem-solving.
+ Estudiante de Ingeniería en Informática 🇦🇷
+Apasionada por el desarrollo web 💻
+Transformando ideas en proyectos reales 🚀
+Siempre explorando nuevas tecnologías y mejorando mis habilidades
 
  ![1eed75710d9258141a2c8c53c66e018f](https://github.com/user-attachments/assets/508540d5-36d3-4e28-abb3-e918cb30ade5)
 
 
 </div>
 
-### What I'm working on:
-- 🔧 Currently, I'm diving deep into backend development using Node.js and Visual Studio Code.
-- 💾 Learning SQL and MySQL to enhance my database management skills.
-- 📚 Working on a team project to build a library book loan system using C++.
+### 💻 En qué estoy trabajando:
+- 🔧 Profundizando en desarrollo backend con Node.js y Visual Studio Code.
+- 📱 Desarrollando una aplicación móvil con Kotlin.
+- 💾 Aprendiendo SQL y MySQL para mejorar mis habilidades en bases de datos.
+- 📚 Trabajando en equipo utilizando C++.
 
 ### Languages and Tools I Use
 
@@ -43,21 +47,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+- 🚀 Siempre abierta a nuevos proyectos y desafíos en el desarrollo full-stack.
 
-
-## Interests
-
-- I'm a huge fan of **watching series** and **anime**—I love getting hooked on a good storyline! 🎬✨
-
-- When it comes to **gaming**, I’m all about it! My **Nintendo DS** is one of my favorites, and I’m currently **collecting Nintendo consoles** (it's a small collection for now, but I'm working on it!). 🎮🌟
-
-- I’m super **energetic** and always on the move! Whether I’m gaming, watching something, or exploring new hobbies, I’m always up for fun and adventure! ⚡😄
-
-### Fun Facts:
-- 🚀 Always open to new projects and challenges in full-stack development.
-
-# Let's Connect:
-- 🌟 I'm always looking for new challenges, collaborations, and opportunities to learn. Feel free to check out my repos and get in touch!
+# 🤝 Conectemos:
+- 🌟 Siempre estoy en busca de nuevos desafíos, colaboraciones y oportunidades para aprender. ¡No dudes en ver mis repositorios y ponerte en contacto!
 - aguirre.20kayla@gmail.com
   
 <!-- Espacio vacío aquí -->
