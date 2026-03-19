@@ -59,11 +59,18 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-aguirre-3a1bb1287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kayla-git)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][https://www.instagram.com/kayagrr/]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayagrr/)
 
 <!-- Espacio vacío aquí -->
   
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&theme=tokyonight)
+
+
+
+
+
+
+
 
 
