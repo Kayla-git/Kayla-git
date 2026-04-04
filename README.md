@@ -66,8 +66,7 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 
 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kayla-git&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=tokyonight)
 
 
 
