@@ -64,8 +64,9 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 <!-- Espacio vacío aquí -->
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kayla-git&layout=donut&theme=tokyonight)
 
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kayla-git&show_icons=true&theme=tokyonight)
 
 
 
