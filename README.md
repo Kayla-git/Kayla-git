@@ -66,6 +66,8 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 
 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayla-git&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayla-git&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kayla-git&theme=tokyonight)
 
 
