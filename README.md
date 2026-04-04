@@ -62,11 +62,9 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayagrr/)
 
 <!-- Espacio vacío aquí -->
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
