@@ -64,7 +64,7 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 <!-- Espacio vacío aquí -->
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kayla-git&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kayla-git&layout=donut&theme=tokyonight)
 
 
 
