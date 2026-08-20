@@ -24,12 +24,6 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 
 </div>
 
-### 💻 En qué estoy trabajando:
-- 🔧 Profundizando en desarrollo backend con Node.js y Visual Studio Code.
-- 📱 Desarrollando una aplicación móvil con Kotlin.
-- 💾 Aprendiendo SQL y MySQL para mejorar mis habilidades en bases de datos.
-- 📚 Trabajando en equipo utilizando C++.
-
 ### Languages and Tools I Use
 
 #### Languages:
@@ -46,8 +40,6 @@ Siempre explorando nuevas tecnologías y mejorando mis habilidades
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-- 🚀 Siempre abierta a nuevos proyectos y desafíos en el desarrollo full-stack.
 
 # 🤝 Conectemos:
 - 🌟 Siempre estoy en busca de nuevos desafíos, colaboraciones y oportunidades para aprender. ¡No dudes en ver mis repositorios y ponerte en contacto!
