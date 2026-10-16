@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Kayla Aguirre
+# Kayla Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 ### Informatics Engineering Student · Software Development
 
@@ -15,7 +15,7 @@ Argentina
 
 ## About Me
 
-I'm an Informatics Engineering student at **Universidad Gastón Dachary**, Argentina, interested in software development and building practical solutions through code.
+<img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" alt="Kirby Baila" width="50" height="50"/> I'm an Informatics Engineering student at **Universidad Gastón Dachary**, Argentina, interested in software development and building practical solutions through code.
 
 I'm currently strengthening my programming skills and applying what I learn to academic and personal projects.
 
@@ -39,16 +39,6 @@ I'm currently strengthening my programming skills and applying what I learn to a
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
-
-## Featured Projects
-
-### StudyMind
-
-A study-focused application designed to help students organize subjects, complete activities, and track their academic progress.
-
-**Technologies:** Python · Tkinter · SQLite
-
-> More projects will be added as they are documented and published.
 
 ## GitHub Statistics
 
