@@ -1,5 +1,8 @@
 
 <div align="center">
+  
+![White Minimalist Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/79b99b28-3f02-4c50-a134-07db289fcba8)
+
 
 # Kayla Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
