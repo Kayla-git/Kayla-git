@@ -1,64 +1,77 @@
-<div align="center">
-  
-  ![White Minimalist Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/79b99b28-3f02-4c50-a134-07db289fcba8)
-
-  
-</div>
-
 
 <div align="center">
 
-# Hola! Soy Kayla Aguirre   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Kayla Aguirre
 
+### Informatics Engineering Student · Software Development
 
-## ABOUT ME
+Argentina
 
-<img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" alt="Kirby Baila" width="50" height="50"/>
- Estudiante de Ingeniería en Informática 🇦🇷
-Apasionada por el desarrollo web 💻
-Transformando ideas en proyectos reales 🚀
-Siempre explorando nuevas tecnologías y mejorando mis habilidades
-
- ![1eed75710d9258141a2c8c53c66e018f](https://github.com/user-attachments/assets/508540d5-36d3-4e28-abb3-e918cb30ade5)
-
+*Building my skills through learning, problem-solving, and practical projects.*
 
 </div>
 
-### Languages and Tools I Use
+---
 
-#### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## About Me
 
-#### Tools:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I'm an Informatics Engineering student at **Universidad Gastón Dachary**, Argentina, interested in software development and building practical solutions through code.
 
+I'm currently strengthening my programming skills and applying what I learn to academic and personal projects.
 
-# 🤝 Conectemos:
-- 🌟 Siempre estoy en busca de nuevos desafíos, colaboraciones y oportunidades para aprender. ¡No dudes en ver mis repositorios y ponerte en contacto!
-- aguirre.20kayla@gmail.com
-  
-<!-- Espacio vacío aquí -->
-  
-### Social Media
+## Languages & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-aguirre-3a1bb1287/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kayla-git)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayagrr/)
+**Programming Languages**
 
-<!-- Espacio vacío aquí -->
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white)
 
+**Web Development**
 
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white)
 
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kayla-git&theme=tokyonight)
+## Featured Projects
 
+### StudyMind
 
+A study-focused application designed to help students organize subjects, complete activities, and track their academic progress.
+
+**Technologies:** Python · Tkinter · SQLite
+
+> More projects will be added as they are documented and published.
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kayla-git&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000&title_color=6B7280&text_color=6B7280&icon_color=6B7280" alt="Kayla's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayla-git&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=6B7280&text_color=6B7280" alt="Most used languages on Kayla's public repositories" />
+
+</div>
+
+<sub>Statistics reflect public GitHub activity and may take time to update.</sub>
+
+## Contact
+
+- **Email:** [aguirre.20kayla@gmail.com](mailto:aguirre.20kayla@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kayla-aguirre-3a1bb1287)
+- **GitHub:** [@Kayla-git](https://github.com/Kayla-git)
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
